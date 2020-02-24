@@ -265,3 +265,6 @@ C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\programming.png
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\space.png
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\business.png
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\quizcover.png
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\splash.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\crc64056e42705afeb645\SplashActivity.java
