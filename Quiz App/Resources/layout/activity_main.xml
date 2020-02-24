@@ -56,16 +56,14 @@
                         android:layout_height="100dp"/>
 
                     <View
-                        android:background="#e2e2e2"
+                        android:background="@color/colorAsh"
                         android:layout_width="match_parent"
                         android:layout_height="1dp"/>
 
                     <TextView
-                        android:layout_margin="5dp"
-                        android:gravity="center"
+                        style="@style/topic_textView"
                         android:text="History"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"/>
+                        />
 
                 </LinearLayout>
 
@@ -93,17 +91,15 @@
                         android:layout_height="100dp"/>
 
                     <View
-                        android:background="#e2e2e2"
+                        android:background="@color/colorAsh"
                         android:layout_width="match_parent"
                         android:layout_height="1dp"/>
 
                     
                     <TextView
-                        android:layout_margin="5dp"
-                        android:gravity="center"
+                        style="@style/topic_textView"
                         android:text="Geography"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"/>
+                        />
 
                 </LinearLayout>
 
@@ -135,16 +131,14 @@
                         android:layout_height="100dp"/>
 
                     <View
-                        android:background="#e2e2e2"
+                        android:background="@color/colorAsh"
                         android:layout_width="match_parent"
                         android:layout_height="1dp"/>
 
                     <TextView
-                        android:layout_margin="5dp"
-                        android:gravity="center"
+                        style="@style/topic_textView"
                         android:text="Space"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"/>
+                       />
 
                 </LinearLayout>
 
@@ -172,17 +166,15 @@
                         android:layout_height="100dp"/>
 
                     <View
-                        android:background="#e2e2e2"
+                        android:background="@color/colorAsh"
                         android:layout_width="match_parent"
                         android:layout_height="1dp"/>
 
                     
                     <TextView
-                        android:layout_margin="5dp"
-                        android:gravity="center"
+                        style="@style/topic_textView"
                         android:text="Engineering"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"/>
+                        />
 
                 </LinearLayout>
 
@@ -214,16 +206,14 @@
                         android:layout_height="100dp"/>
 
                     <View
-                        android:background="#e2e2e2"
+                        android:background="@color/colorAsh"
                         android:layout_width="match_parent"
                         android:layout_height="1dp"/>
 
                     <TextView
-                        android:layout_margin="5dp"
-                        android:gravity="center"
+                       style="@style/topic_textView"
                         android:text="Programming"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"/>
+                     />
 
                 </LinearLayout>
 
@@ -251,17 +241,15 @@
                         android:layout_height="100dp"/>
 
                     <View
-                        android:background="#e2e2e2"
+                        android:background="@color/colorAsh"
                         android:layout_width="match_parent"
                         android:layout_height="1dp"/>
 
                     
                     <TextView
-                        android:layout_margin="5dp"
-                        android:gravity="center"
+                        style="@style/topic_textView"
                         android:text="Business"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"/>
+                    />
 
                 </LinearLayout>
 
