@@ -280,3 +280,5 @@ C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_engineering.xml
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_geography.xml
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_programming.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\layout\navheader.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\quizappimage.png
