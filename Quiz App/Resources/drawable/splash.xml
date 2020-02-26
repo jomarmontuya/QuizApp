@@ -11,10 +11,7 @@
       android:layout_width="fill_parent"
       android:layout_height="fill_parent"
       android:scaleType="matrix"
-      android:src="@drawable/quizcover"
-      
-      
-      />
+      android:src="@drawable/quizcover"/>
   
   </item>
   

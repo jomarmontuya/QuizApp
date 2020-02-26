@@ -1,6 +1,9 @@
 Quiz_App.MainActivity, Quiz App;crc64eca49f2960b95a40.MainActivity
 Quiz_App.MainActivity;crc64eca49f2960b95a40.MainActivity
 quiz_app.MainActivity;crc64eca49f2960b95a40.MainActivity
+Quiz_App.Activities.QuizDescriptionActivity, Quiz App;crc64056e42705afeb645.QuizDescriptionActivity
+Quiz_App.Activities.QuizDescriptionActivity;crc64056e42705afeb645.QuizDescriptionActivity
+quiz_app.activities.QuizDescriptionActivity;crc64056e42705afeb645.QuizDescriptionActivity
 Quiz_App.Activities.SplashActivity, Quiz App;crc64056e42705afeb645.SplashActivity
 Quiz_App.Activities.SplashActivity;crc64056e42705afeb645.SplashActivity
 quiz_app.activities.SplashActivity;crc64056e42705afeb645.SplashActivity
