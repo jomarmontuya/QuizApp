@@ -56,8 +56,32 @@ namespace Quiz_App
             historyLayout.Click += HistoryLayout_Click;
             geographyLayout.Click += GeographyLayout_Click;
             spaceLayout.Click += SpaceLayout_Click;
+            programmingLayout.Click += ProgrammingLayout_Click;
+            businessLayout.Click += BusinessLayout_Click;
+            engineeringLayout.Click += EngineeringLayout_Click;
 
 
+        }
+
+        private void EngineeringLayout_Click(object sender, System.EventArgs e)
+        {
+            Intent intent = new Intent(this, typeof(QuizDescriptionActivity));
+            intent.PutExtra("Topic", "Engineering");
+            StartActivity(intent);
+        }
+
+        private void BusinessLayout_Click(object sender, System.EventArgs e)
+        {
+            Intent intent = new Intent(this, typeof(QuizDescriptionActivity));
+            intent.PutExtra("Topic", "Business");
+            StartActivity(intent);
+        }
+
+        private void ProgrammingLayout_Click(object sender, System.EventArgs e)
+        {
+            Intent intent = new Intent(this, typeof(QuizDescriptionActivity));
+            intent.PutExtra("Topic", "Programming");
+            StartActivity(intent);
         }
 
         private void SpaceLayout_Click(object sender, System.EventArgs e)
@@ -77,7 +101,7 @@ namespace Quiz_App
         private void HistoryLayout_Click(object sender, System.EventArgs e)
         {
             Intent intent = new Intent(this, typeof(QuizDescriptionActivity));
-            
+            intent.PutExtra("Topic", "History");
             StartActivity(intent);
 
 

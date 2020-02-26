@@ -15,19 +15,32 @@ external-cache-path;C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizAp
 external-path;C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+FrameLayout;obj\Debug\90\res\layout\navheader.xml
 gradient;obj\Debug\90\res\drawable\roundbutton.xml
 GridLayout;obj\Debug\90\res\layout\activity_main.xml
+group;obj\Debug\90\res\menu\navmenu.xml
 ImageView;obj\Debug\90\res\layout\activity_main.xml
+ImageView;obj\Debug\90\res\layout\navheader.xml
 ImageView;obj\Debug\90\res\layout\selected_topic.xml
 item;obj\Debug\90\res\drawable\roundbutton.xml
 item;obj\Debug\90\res\drawable\splash.xml
+item;obj\Debug\90\res\menu\navmenu.xml
 item;obj\Debug\90\res\values\styles.xml
 layer-list;obj\Debug\90\res\drawable\roundbutton.xml
 layer-list;obj\Debug\90\res\drawable\splash.xml
 LinearLayout;obj\Debug\90\res\layout\activity_main.xml
+LinearLayout;obj\Debug\90\res\layout\navheader.xml
 LinearLayout;obj\Debug\90\res\layout\selected_topic.xml
+menu;obj\Debug\90\res\menu\navmenu.xml
 padding;obj\Debug\90\res\drawable\roundbutton.xml
 path;obj\Debug\90\res\drawable\menuaction.xml
+path;obj\Debug\90\res\drawable\outline_arrowback.xml
+path;obj\Debug\90\res\drawable\outline_business.xml
+path;obj\Debug\90\res\drawable\outline_engineering.xml
+path;obj\Debug\90\res\drawable\outline_geography.xml
+path;obj\Debug\90\res\drawable\outline_history.xml
+path;obj\Debug\90\res\drawable\outline_programming.xml
+path;obj\Debug\90\res\drawable\outline_space.xml
 paths;C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 RelativeLayout;obj\Debug\90\res\layout\selected_topic.xml
 resources;obj\Debug\90\res\values\colors.xml
@@ -41,6 +54,14 @@ string;obj\Debug\90\res\values\strings.xml
 stroke;obj\Debug\90\res\drawable\roundbutton.xml
 style;obj\Debug\90\res\values\styles.xml
 TextView;obj\Debug\90\res\layout\activity_main.xml
+TextView;obj\Debug\90\res\layout\navheader.xml
 TextView;obj\Debug\90\res\layout\selected_topic.xml
 vector;obj\Debug\90\res\drawable\menuaction.xml
+vector;obj\Debug\90\res\drawable\outline_arrowback.xml
+vector;obj\Debug\90\res\drawable\outline_business.xml
+vector;obj\Debug\90\res\drawable\outline_engineering.xml
+vector;obj\Debug\90\res\drawable\outline_geography.xml
+vector;obj\Debug\90\res\drawable\outline_history.xml
+vector;obj\Debug\90\res\drawable\outline_programming.xml
+vector;obj\Debug\90\res\drawable\outline_space.xml
 View;obj\Debug\90\res\layout\activity_main.xml
