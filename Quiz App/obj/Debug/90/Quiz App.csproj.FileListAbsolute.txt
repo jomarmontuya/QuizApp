@@ -1,12 +1,6 @@
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\bin\Debug\Quiz App.dll
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\bin\Debug\Quiz App.pdb
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\bin\Debug\com.companyname.quiz_app.apk
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\bin\Debug\com.companyname.quiz_app-Signed.aab
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\bin\Debug\com.companyname.quiz_app-Signed.apk
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\build.props
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\adb.props
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\Quiz App.csprojAssemblyReference.cache
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\resourcepaths.cache
@@ -33,6 +27,12 @@ C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\flata\compiled.flata
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\R.txt
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\R.cs.flag
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\Quiz App.csprojAssemblyReference.cache
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\bin\Debug\Quiz App.dll
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\bin\Debug\Quiz App.pdb
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\bin\Debug\com.companyname.quiz_app.apk
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\bin\Debug\com.companyname.quiz_app-Signed.aab
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\bin\Debug\com.companyname.quiz_app-Signed.apk
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\Quiz App.dll
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\Quiz App.pdb
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\bin\com.companyname.quiz_app.apk
@@ -69,6 +69,20 @@ C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\business.png
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\quizcover.png
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\splash.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\layout\selected_topic.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\roundbutton.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\menuaction.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\menu\navmenu.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_history.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_space.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_arrowback.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_business.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_engineering.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_geography.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_programming.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\layout\navheader.xml
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\quizappimage.png
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\layout\include_main.xml
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\uploadflags.txt
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\resolvedassemblies.hash
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\assets\Java.Interop.dll
@@ -191,13 +205,9 @@ C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
@@ -211,33 +221,38 @@ C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\crc64056e42705afeb645\QuizDescriptionActivity.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\crc64056e42705afeb645\SplashActivity.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\v7\cardview\R.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\transition\R.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\crc64eca49f2960b95a40\MainActivity.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\crc64eca49f2960b95a40\MainActivity.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\android\support\compat\R.java
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\bin\packaged_resources
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\com\companyname\quiz_app\R.java
@@ -268,17 +283,3 @@ C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\layout\selected_topic.xml
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\roundbutton.xml
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\menuaction.xml
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\android\src\crc64056e42705afeb645\QuizDescriptionActivity.java
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\menu\navmenu.xml
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_history.xml
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_space.xml
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_arrowback.xml
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_business.xml
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_engineering.xml
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_geography.xml
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\outline_programming.xml
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\layout\navheader.xml
-C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\res\drawable\quizappimage.png

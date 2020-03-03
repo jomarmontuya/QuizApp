@@ -10,6 +10,7 @@ using Android.Runtime;
 using Android.Support.V7.App;
 using Android.Views;
 using Android.Widget;
+using Quiz_App.Helpers;
 
 namespace Quiz_App.Activities
 {
@@ -44,6 +45,10 @@ namespace Quiz_App.Activities
             quizTopic = Intent.GetStringExtra("Topic");
             quizTopicTextView.Text = quizTopic;
             quizImageView.SetImageResource(GetImage(quizTopic));
+
+            // Fetching Quiz Description from Quiz Helpers
+            QuizHelper quizHelper = new QuizHelper();
+            descriptionTextView.Text = quizHelper.GetTopicDescription(quizTopic);
 
         }
 

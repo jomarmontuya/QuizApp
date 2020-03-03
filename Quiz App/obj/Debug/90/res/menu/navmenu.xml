@@ -1,4 +1,46 @@
-<!--For all properties see: https://aka.ms/android-menu-resource--><menu xmlns:android="http://schemas.android.com/apk/res/android"><group><item android:icon="@drawable/outline_history" android:title="History" android:id="@+id/navHistory" /><item android:icon="@drawable/outline_geography" android:title="Geography" android:id="@+id/navGeography" /><item android:icon="@drawable/outline_space" android:title="Space" android:id="@+id/navSpace" /><item android:icon="@drawable/outline_engineering" android:title="Engineering" android:id="@+id/navEngineering" /><item android:icon="@drawable/outline_programming" android:title="Programming" android:id="@+id/navProgramming" /><item android:icon="@drawable/outline_business" android:title="Business" android:id="@+id/navBusiness" /></group></menu><!-- Code to implement into Activity:
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--For all properties see: https://aka.ms/android-menu-resource-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <group>
+
+      <item
+      android:icon="@drawable/outline_history"
+      android:title="History"
+      android:id="@+id/navHistory"/>
+    
+      
+      <item
+      android:icon="@drawable/outline_geography"
+      android:title="Geography"
+      android:id="@+id/navGeography"/>
+
+      <item
+       android:icon="@drawable/outline_space"
+       android:title="Space"
+       android:id="@+id/navSpace"/>
+
+    <item
+       android:icon="@drawable/outline_engineering"
+       android:title="Engineering"
+       android:id="@+id/navEngineering"/>
+
+    <item
+       android:icon="@drawable/outline_programming"
+       android:title="Programming"
+       android:id="@+id/navProgramming"/>
+
+    <item
+       android:icon="@drawable/outline_business"
+       android:title="Business"
+       android:id="@+id/navBusiness"/>
+    
+    
+  </group>
+  
+</menu>
+
+<!-- Code to implement into Activity:
 
 Android.Widget.SearchView searchView;
 public override bool OnCreateOptionsMenu(IMenu menu)

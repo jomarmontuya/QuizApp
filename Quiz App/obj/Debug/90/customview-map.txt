@@ -1,7 +1,9 @@
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
-android.support.v7.widget.CardView;obj\Debug\90\res\layout\activity_main.xml
-android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\activity_main.xml
+android.support.design.widget.NavigationView;obj\Debug\90\res\layout\activity_main.xml
+android.support.v4.widget.DrawerLayout;obj\Debug\90\res\layout\activity_main.xml
+android.support.v7.widget.CardView;obj\Debug\90\res\layout\include_main.xml
+android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\include_main.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
 bitmap;obj\Debug\90\res\drawable\splash.xml
@@ -17,11 +19,12 @@ foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
 FrameLayout;obj\Debug\90\res\layout\navheader.xml
 gradient;obj\Debug\90\res\drawable\roundbutton.xml
-GridLayout;obj\Debug\90\res\layout\activity_main.xml
+GridLayout;obj\Debug\90\res\layout\include_main.xml
 group;obj\Debug\90\res\menu\navmenu.xml
-ImageView;obj\Debug\90\res\layout\activity_main.xml
+ImageView;obj\Debug\90\res\layout\include_main.xml
 ImageView;obj\Debug\90\res\layout\navheader.xml
 ImageView;obj\Debug\90\res\layout\selected_topic.xml
+include;obj\Debug\90\res\layout\activity_main.xml
 item;obj\Debug\90\res\drawable\roundbutton.xml
 item;obj\Debug\90\res\drawable\splash.xml
 item;obj\Debug\90\res\menu\navmenu.xml
@@ -29,7 +32,7 @@ item;obj\Debug\90\res\values\styles.xml
 layer-list;obj\Debug\90\res\drawable\roundbutton.xml
 layer-list;obj\Debug\90\res\drawable\splash.xml
 LinearLayout;obj\Debug\90\res\layout\activity_main.xml
-LinearLayout;obj\Debug\90\res\layout\navheader.xml
+LinearLayout;obj\Debug\90\res\layout\include_main.xml
 LinearLayout;obj\Debug\90\res\layout\selected_topic.xml
 menu;obj\Debug\90\res\menu\navmenu.xml
 padding;obj\Debug\90\res\drawable\roundbutton.xml
@@ -47,13 +50,13 @@ resources;obj\Debug\90\res\values\colors.xml
 resources;obj\Debug\90\res\values\ic_launcher_background.xml
 resources;obj\Debug\90\res\values\strings.xml
 resources;obj\Debug\90\res\values\styles.xml
-ScrollView;obj\Debug\90\res\layout\activity_main.xml
+ScrollView;obj\Debug\90\res\layout\include_main.xml
 selector;obj\Debug\90\res\drawable\roundbutton.xml
 shape;obj\Debug\90\res\drawable\roundbutton.xml
 string;obj\Debug\90\res\values\strings.xml
 stroke;obj\Debug\90\res\drawable\roundbutton.xml
 style;obj\Debug\90\res\values\styles.xml
-TextView;obj\Debug\90\res\layout\activity_main.xml
+TextView;obj\Debug\90\res\layout\include_main.xml
 TextView;obj\Debug\90\res\layout\navheader.xml
 TextView;obj\Debug\90\res\layout\selected_topic.xml
 vector;obj\Debug\90\res\drawable\menuaction.xml
@@ -64,4 +67,4 @@ vector;obj\Debug\90\res\drawable\outline_geography.xml
 vector;obj\Debug\90\res\drawable\outline_history.xml
 vector;obj\Debug\90\res\drawable\outline_programming.xml
 vector;obj\Debug\90\res\drawable\outline_space.xml
-View;obj\Debug\90\res\layout\activity_main.xml
+View;obj\Debug\90\res\layout\include_main.xml
