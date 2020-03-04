@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+        <android.support.v7.widget.Toolbar
+        android:theme="@style/AppTheme.DarkAppbar"
+        android:id="@+id/quiztoolbar"
+        android:elevation="4dp"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"/>
+
+    <LinearLayout
+        android:padding="16dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/timeCounterTextView"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:text="01:33"
+            android:gravity="center"
+            android:layout_weight="0.15"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_weight="0.6"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+
+            <TextView
+               android:id="@+id/quizPositionTextView"
+               android:layout_marginBottom="0dp"
+               android:layout_marginTop="20dp"
+                android:textSize="20sp"
+               android:gravity="center"
+               android:textStyle="bold"
+               android:text="Questions 1/5"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"/>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="40dp">
+
+                <RadioButton
+                    
+                    android:checked="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+         
+    </LinearLayout>
+
+
+
+</LinearLayout>
