@@ -8,6 +8,7 @@ android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\quiz_page.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
 bitmap;obj\Debug\90\res\drawable\splash.xml
+Button;obj\Debug\90\res\layout\quiz_page.xml
 Button;obj\Debug\90\res\layout\selected_topic.xml
 cache-path;C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\90\res\drawable\splash.xml
@@ -48,6 +49,7 @@ path;obj\Debug\90\res\drawable\outline_programming.xml
 path;obj\Debug\90\res\drawable\outline_space.xml
 paths;C:\Users\montuyja\Documents\Jomar\Udemy\Udemy-QuizApp\QuizApp\Quiz App\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 RadioButton;obj\Debug\90\res\layout\quiz_page.xml
+RelativeLayout;obj\Debug\90\res\layout\quiz_page.xml
 RelativeLayout;obj\Debug\90\res\layout\selected_topic.xml
 resources;obj\Debug\90\res\values\colors.xml
 resources;obj\Debug\90\res\values\ic_launcher_background.xml

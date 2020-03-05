@@ -41,6 +41,7 @@ namespace Quiz_App.Activities
             descriptionTextView = (TextView)FindViewById(Resource.Id.quizDescriptionText);
             quizImageView = (ImageView)FindViewById(Resource.Id.quizImage);
             startQuizButton = (Button)FindViewById(Resource.Id.startQuizButton);
+           
 
             quizTopic = Intent.GetStringExtra("Topic");
             quizTopicTextView.Text = quizTopic;
@@ -49,7 +50,15 @@ namespace Quiz_App.Activities
             // Fetching Quiz Description from Quiz Helpers
             QuizHelper quizHelper = new QuizHelper();
             descriptionTextView.Text = quizHelper.GetTopicDescription(quizTopic);
+            startQuizButton.Click += StartQuizButton_Click;
+        }
 
+        private void StartQuizButton_Click(object sender, EventArgs e)
+        {
+            Intent intent = new Intent(this, typeof(QuizActivity));
+            intent.PutExtra("Topic", quizTopic);
+            StartActivity(intent);
+            Finish();
         }
 
         // Getting Images from Drawable

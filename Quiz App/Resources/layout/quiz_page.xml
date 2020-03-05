@@ -46,18 +46,152 @@
                android:layout_width="match_parent"
                android:layout_height="wrap_content"/>
 
+            <TextView
+                android:id="@+id/questionTextView"
+                android:layout_marginBottom="30dp"
+                android:layout_marginTop="10dp"
+                android:text="Business Finance can come from either Internal or external sources. Which of the following is an internal sources of finanaces?"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <!-- Creating Layout for radio button -->
+
             <LinearLayout
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
                 android:orientation="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="40dp">
 
                 <RadioButton
-                    
+                    android:layout_gravity="center_vertical"
+                    android:id="@+id/optionARadio"
                     android:checked="true"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"/>
 
+                <TextView
+                    
+                    android:id="@+id/optionATextView"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="16sp"
+                    android:layout_gravity="center_vertical"
+                    android:text="An Overdraft"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
             </LinearLayout>
+
+               <LinearLayout
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="40dp">
+
+                <RadioButton
+                    android:layout_gravity="center_vertical"
+                    android:id="@+id/optionBRadio"
+                    android:checked="false
+                    "
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    
+                    android:id="@+id/optionBTextView"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="16sp"
+                    android:layout_gravity="center_vertical"
+                    android:text="A Loan from a bank"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+
+               <LinearLayout
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="40dp">
+
+                <RadioButton
+                    android:layout_gravity="center_vertical"
+                    android:id="@+id/optionCRadio"
+                    android:checked="false
+                    "
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    
+                    android:id="@+id/optionCTextView"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="16sp"
+                    android:layout_gravity="center_vertical"
+                    android:text="Selling assets"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+
+               <LinearLayout
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="40dp">
+
+                <RadioButton
+                    android:layout_gravity="center_vertical"
+                    android:id="@+id/optionDRadio"
+                    android:checked="false"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    
+                    android:id="@+id/optionDTextView"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="16sp"
+                    android:layout_gravity="center_vertical"
+                    android:text="A Stock Market floatation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+            <!-- Adding Proceed button -->
+
+            <RelativeLayout
+                android:layout_weight="0.25"
+                android:layout_width="match_parent"
+                android:layout_height="0dp">
+
+                <Button
+                    android:textStyle="bold"
+                    android:id="@+id/proceedQuizButton"
+                    android:background="@drawable/roundbutton"
+                    android:text="Proceed"
+                    android:textAllCaps="false"
+                    android:textColor="@color/white"
+                    android:layout_marginBottom="40dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                     android:layout_width="200dp"
+                     android:layout_height="40dp"/>
+
+
+            </RelativeLayout>
+
+
+
+
 
         </LinearLayout>
 

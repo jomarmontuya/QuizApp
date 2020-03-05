@@ -60,8 +60,10 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Activities\QuizActivity.cs" />
     <Compile Include="Activities\QuizDescriptionActivity.cs" />
     <Compile Include="Activities\SplashActivity.cs" />
+    <Compile Include="Data Models\Question.cs" />
     <Compile Include="Helpers\QuizHelper.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
@@ -173,6 +175,11 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\include_main.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\quiz_page.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
